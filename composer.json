@@ -1,5 +1,5 @@
 {
-    "name": "sanjeevrajpoot/faq-management",
+    "name": "indianic/faq-management",
     "autoload": {
         "psr-4": {
             "Indianic\\FAQManagement\\": "src/"
