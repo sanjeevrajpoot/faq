@@ -1,5 +1,5 @@
 {
-    "name": "indianictest/faq-management",
+    "name": "indianic/faq-management",
     "autoload": {
         "psr-4": {
             "Indianic\\FAQManagement\\": "src/"
@@ -22,7 +22,6 @@
     },
     "config": {
         "sort-packages": true
-    },
-     "minimum-stability": "stable"
+    }
 }
 
